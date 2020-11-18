@@ -142,12 +142,10 @@ systemd 데몬 재시작
 
 이거 찍었을 때
 
+
 이렇게 나오면 정상작동
 
-
-![systemctl_status_tomcat](https://gitlab.com/linkweb/manage_dev_server/-/wikis/uploads/02eb65989a56c258c6d8244be2f8ff5c/systemctl_status_tomcat.png)
-
-
+![systemctl_status_tomcat](https://i.ibb.co/xgbzB3L/systemctl-status-tomcat.png)
 
 
 
